@@ -1,16 +1,14 @@
-#include "holberton.h"
-
+#include "main.h"
 /**
- * print_numbers - prints numbers between 0 to 9.
- * Return: no return.
- */
+*print_numbers- a function that prints the numbers, from 0 to 9
+*
+*Return: print to stdout the alphabet, in lowercase, followed by a new line.
+**/
 void print_numbers(void)
 {
-	int ch;
+	int i;
 
-	for (ch = 48; ch < 58; ch++)
-	{
-		_putchar(ch);
-	}
+	for (i = 0; i <= 9; i++)
+		_putchar(i + '0');
 	_putchar('\n');
 }
