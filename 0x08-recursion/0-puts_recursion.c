@@ -2,7 +2,7 @@
 /**
  * _puts_recursion - print a string 
  * @s:string 
- * Return:vois
+ * Return:void
  */
 void _puts_recursion(char *s)
 {
