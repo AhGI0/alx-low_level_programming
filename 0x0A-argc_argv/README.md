@@ -16,17 +16,13 @@ Your code should use the `Betty` style. It will be checked using <a href="https:
 ------
 ### Question #0
 
-<br>
-What is argc?
-<br>
+  The length of the first command line argument
 
-The length of the first command line argument
+  The number of command line arguments
 
-The number of command line arguments
+  A flag set to 1 when command line arguments are present
 
-A flag set to 1 when command line arguments are present
-
-The size of the argv array
+  The size of the argv array
 
 
 
