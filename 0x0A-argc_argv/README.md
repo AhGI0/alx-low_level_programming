@@ -20,16 +20,16 @@ Your code should use the `Betty` style. It will be checked using <a href="https:
 What is argc?
 <br>
 
-<h3><input type="radio" name="same"> The length of the first command line argument
+The length of the first command line argument
 
-<input type="radio" name="same">  The number of command line arguments
+The number of command line arguments
 
-  <input type="radio" name="same">  A flag set to 1 when command line arguments are present
+A flag set to 1 when command line arguments are present
 
- <input type="radio" name="same">   The size of the argv array
- </h3>
+The size of the argv array
+
 
 
  ---
- 
+
 
