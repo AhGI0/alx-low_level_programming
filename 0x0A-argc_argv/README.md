@@ -15,12 +15,21 @@ Your code should use the `Betty` style. It will be checked using <a href="https:
 
 ------
 ### Question #0
+
+<br>
 What is argc?
+<br>
 
-    The length of the first command line argument
+<h3><input type="radio" name="same"> The length of the first command line argument
 
-    The number of command line arguments
+<input type="radio" name="same">  The number of command line arguments
 
-    A flag set to 1 when command line arguments are present
+  <input type="radio" name="same">  A flag set to 1 when command line arguments are present
 
-    The size of the argv array
+ <input type="radio" name="same">   The size of the argv array
+ </h3>
+
+
+ ---
+ 
+
