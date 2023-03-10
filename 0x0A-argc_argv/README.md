@@ -144,6 +144,7 @@ $ ./argv "My School is fun"
 ---
  ## the answer
  |zero|one|two|three|four|five|
+ |---|---|---|---|---|
  |The number of command line arguments&&The size of the argv array|
 
 
