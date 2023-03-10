@@ -13,7 +13,8 @@
 
     -ranlib
 
-    _The command used to create a static library from object files is "ar". The "ar" command is a Unix utility that is used to create, modify, and extract files from archives, including static libraries. It can be used to create a static library by combining one or more object files together into a single archive file. The command to create a static library using "ar" is typically something like_
+ 
+    
 
 ---
 *What is the format of a static library?
