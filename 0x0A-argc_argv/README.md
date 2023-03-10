@@ -15,6 +15,8 @@ Your code should use the `Betty` style. It will be checked using <a href="https:
 
 ------
 ### Question #0
+  
+  What is argc?
 
     The length of the first command line argument
 
@@ -26,5 +28,124 @@ Your code should use the `Betty` style. It will be checked using <a href="https:
 
 
  ---
+
+ Question #1
+
+What is argv[argc]?
+
+    The last command line argument
+
+    NULL
+
+    It does not always exist
+
+    The program name
+
+    The first command line argument
+
+---
+ Question #2
+
+In the following command, what is argv[2]?
+
+$ ./argv "My School" "is fun"
+
+    ./argv
+
+    fun
+
+    My School
+
+    School
+
+    My School is fun
+
+    NULL
+
+    is
+
+    is fun
+
+    My
+
+---
+ Question #3
+
+What is argv?
+
+    An array containing the program compilation flags
+
+    An array containing the program command line arguments
+
+    An array of size argc
+
+---
+ Question #4
+
+In the following command, what is argv[2]?
+
+$ ./argv My School is fun
+
+    ./argv
+
+    fun
+
+    My School
+
+    School
+
+    My School is fun
+
+    NULL
+
+    is
+
+    is fun
+
+    My
+
+---
+ Question #5
+
+What is argv[0]
+
+    The program name
+
+    NULL
+
+    It does not always exist
+
+    The first command line argument
+---
+ Question #6
+
+In the following command, what is argv[2]?
+
+$ ./argv "My School is fun"
+
+    ./argv
+
+    fun
+
+    My School
+
+    School
+
+    My School is fun
+
+    NULL
+
+    is
+
+    is fun
+
+    My
+
+---
+ ## the answer
+
+|Question0||Question1||Question2||Question3||Question4||Question5|
+|---||---||---||---||---|
+|The number of command line arguments&The size of the argv array|
 
 
