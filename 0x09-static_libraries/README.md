@@ -1,7 +1,7 @@
 ##0x09-static_libraries
 
 ---
-*-1What command is used to create a static library from object files?
+*What command is used to create a static library from object files?
 
     -nm
 
@@ -17,7 +17,7 @@
     
 
 ---
-*2-What is the format of a static library?
+*What is the format of a static library?
 
     -An archive
 
@@ -29,7 +29,7 @@
 
 ---
 
-*3-What is the point of using ranlib?
+*What is the point of using ranlib?
 
     -List the content of a library
 
@@ -41,7 +41,7 @@
 
 ---
 
- *4-What command(s) can be used to list the symbols stored in a static library?
+ *What command(s) can be used to list the symbols stored in a static library?
 
     -ld
 
