@@ -143,9 +143,9 @@ $ ./argv "My School is fun"
 
 ---
  ## the answer
- |zero|one|two|three|four|five|
- |---|---|---|---|---|---|
- |The number of command line arguments&&The size of the argv array|
-
+ |What is `argc?`|What is `argv[argc]`?|In the following command, what is `argv[2]?`|What is `argv`?|In the following command, what is `argv[2]`?|What is `argv[0]`|In the following command, what is `argv[2]`?|
+ |---|---|---|---|---|---|---|
+ |The number of command line arguments&&The size of the argv array|NULL|is fun|An array containing the program command line arguments&&An array of size argc|School|The program name|NULL|
+ 
 
 
