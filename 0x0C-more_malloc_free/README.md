@@ -73,12 +73,11 @@ You can do this:
     {
     free(s);
     }
+<br>
 
-<br>
-No 
-<br>
-<br>
-Yes
+    No
+
+    Yes
 
 ---
 ## Question 6
