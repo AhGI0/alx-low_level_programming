@@ -13,8 +13,7 @@ size_t listint_len(const listint_t *h)
 	while (h)
 	{
 		num++;
-		h = h->next;  // this is the benefit of inctreaments 
-	}
+		h = h->next;  
 
 	return (num);
 }
