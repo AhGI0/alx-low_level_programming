@@ -18,7 +18,7 @@ unsigned int flip_bits(unsigned long int n, unsigned long int m)
 	while (diff)
 	{
 		counter++;
-		diff &= (diff - 2);
+		diff &= (diff - 3);
 	}
 
 	return (counter);
