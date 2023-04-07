@@ -24,6 +24,6 @@ void print_binary(unsigned long int n)
 		if ((n >> shifts) & 1)
 			printf("1");
 		else
-			printf("");
+			printf("0");
 	}
 }
