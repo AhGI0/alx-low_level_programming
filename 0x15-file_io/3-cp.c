@@ -22,7 +22,6 @@ char *create_buffer(char *file)
 		dprintf(STDERR_FILENO,
 			"Error: Can't write to %s\n", file);
 		exit(99);
-		// 99
 	}
 
 	return (buffer);
